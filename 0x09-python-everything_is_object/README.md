@@ -1,10 +1,7 @@
 # Python - Everything is object
 
-![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/252/r_208403_QPSN8.jpg)
-
 In this project, I studied object instantiation in Python, delving into variable aliasing and object identifiers, types, and mutability. The project involved a series of quiz-like questions the answers to which I provided in single-line `.txt` files.
 
-![alt text](https://media.giphy.com/media/wAjfQ9MLUfFjq/giphy.gif)
 
 ## Tests :heavy_check_mark:
 
@@ -287,3 +284,14 @@ del a
 del b
 c = "SCHL"
 ```
+
+## Authors
+<details>
+    <summary>Mahmoud Filali</summary>
+    <ul>
+    <li><a href="https://github.com/MrMagnum01">Github</a></li>
+    <li><a href="https://twitter.com/magnum2028">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/filali-mahmoud/">linkedin</a></li>
+    <li><a href="fil.mahmoud1@gmail.com">e-mail</a></li>
+    </ul>
+</details>
