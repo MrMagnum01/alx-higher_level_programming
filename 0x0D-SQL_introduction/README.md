@@ -86,3 +86,15 @@ In this project, we began working on relational databases. I started practising 
   
 ## Dump file :dolphin:
 * Tasks 101-103 query from the database [temperatures.sql](./temperatures.sql).
+
+
+## Authors
+<details>
+    <summary>Mahmoud Filali</summary>
+    <ul>
+    <li><a href="https://github.com/MrMagnum01">Github</a></li>
+    <li><a href="https://twitter.com/magnum2028">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/filali-mahmoud/">linkedin</a></li>
+    <li><a href="fil.mahmoud1@gmail.com">e-mail</a></li>
+    </ul>
+</details>
