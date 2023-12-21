@@ -1,7 +1,5 @@
 # Python - Almost a circle
 
-![Circle](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
-
 In this project, I encapsulated skills in Python object-oriented programming by coding three connected classes to represent rectangles and squares. I wrote my own test suite using the `unittest` module to test all functionality for each class.
 
 The three classes involved utilizing the following Python tools:
@@ -101,3 +99,16 @@ Represents a square. Inherits from `Rectangle` with:
   * `**kwargs` is expected to be a double pointer to a dictoinary of new key/value attributes to update the `Square` with.
   * `**kwargs` is skipped if `*args` exists.
 * Public method `def to_dictionary(self):` that returns the dictionary representation of a `Square`.
+
+
+
+## Authors
+<details>
+    <summary>Mahmoud Filali</summary>
+    <ul>
+    <li><a href="https://github.com/MrMagnum01">Github</a></li>
+    <li><a href="https://twitter.com/magnum2028">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/filali-mahmoud/">linkedin</a></li>
+    <li><a href="fil.mahmoud1@gmail.com">e-mail</a></li>
+    </ul>
+</details>
