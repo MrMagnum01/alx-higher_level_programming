@@ -4,7 +4,7 @@ In this project, I continued to practice object-oriented programming in Python. 
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files.
 
 ## Tasks :page_with_curl:
 
@@ -59,8 +59,6 @@ In this project, I continued to practice object-oriented programming in Python. 
     * Class method `def square(cls, size=0):` that returns a new `Rectangle` instance with `width == height == size`.
 
 * **10. N Queens**
-
- ![alt text](http://www.crestbook.com/files/Judit-photo1_602x433.jpg)
  
   * [101-nqueens.py](./101-nqueens.py): Python program that solves the [N queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle).
   * Usage: `./101-nqueens.py N`
