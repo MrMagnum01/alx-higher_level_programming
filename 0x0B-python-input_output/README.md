@@ -82,3 +82,13 @@ Prototypes for functions written in this project:
   * Input format: `<IP Address> - [<date>] "GET /projects/260 HTTP/1.1"
   <status code> <file size>`
 
+## Authors
+<details>
+    <summary>Mahmoud Filali</summary>
+    <ul>
+    <li><a href="https://github.com/MrMagnum01">Github</a></li>
+    <li><a href="https://twitter.com/magnum2028">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/filali-mahmoud/">linkedin</a></li>
+    <li><a href="fil.mahmoud1@gmail.com">e-mail</a></li>
+    </ul>
+</details>
