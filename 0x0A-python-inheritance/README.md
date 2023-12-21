@@ -80,3 +80,15 @@ Prototypes for functions written in this project:
 * **13. Can I?**
   * [101-add_attribute.py](./101-add_attribute.py): Python function that adds a new attribute to an object if possible.
     * If an attribute cannot be added, a `TypeError` exception is raised with the message `can't add new attribute`.
+
+
+## Authors
+<details>
+    <summary>Mahmoud Filali</summary>
+    <ul>
+    <li><a href="https://github.com/MrMagnum01">Github</a></li>
+    <li><a href="https://twitter.com/magnum2028">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/filali-mahmoud/">linkedin</a></li>
+    <li><a href="fil.mahmoud1@gmail.com">e-mail</a></li>
+    </ul>
+</details>
