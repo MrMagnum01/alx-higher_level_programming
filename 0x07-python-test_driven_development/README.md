@@ -1,11 +1,10 @@
 # Python - Test-driven development
-![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
 In this project, I started practicing test-driven development using `docstring`and `unittest` in Python.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Includes both Holberton-provided ones as well as the following eight independently-developed:
+* [tests](./tests): Folder of test files:
   * [0-add_integer.txt](./tests/0-add_integer.txt)
   * [2-matrix_divided.txt](./tests/2-matrix_divided.txt)
   * [3-say_my_name.txt](./tests/3-say_my_name.txt)
@@ -82,3 +81,17 @@ Prototypes for functions written in this project:
 
 * **8. CPython #3: Python Strings**
   * [102-python.c](./102-python.c): C function that prints basic information about Python string objects.
+
+
+
+
+## Authors
+<details>
+    <summary>Mahmoud Filali</summary>
+    <ul>
+    <li><a href="https://github.com/MrMagnum01">Github</a></li>
+    <li><a href="https://twitter.com/magnum2028">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/filali-mahmoud/">linkedin</a></li>
+    <li><a href="fil.mahmoud1@gmail.com">e-mail</a></li>
+    </ul>
+</details>
